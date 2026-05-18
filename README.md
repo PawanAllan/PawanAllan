@@ -22,7 +22,7 @@
 - 💡 I love exploring modern architectures and tech stacks, especially **React**, **Tauri**, and **Laravel Inertia**.
 - 🛠️ Recently migrated legacy desktop systems to cloud-based solutions (**TaxFlow/TDS Software**).
 - 🎨 Passionate about UI/UX, always prioritizing premium designs and micro-animations.
-- 📬 How to reach me: **[Add your LinkedIn/Email here]**
+- 📬 How to reach me: **https://www.linkedin.com/in/pawan-allan-12608720b/**
 
 ---
 
@@ -52,14 +52,17 @@ A robust application migrating a local SQLite database to a cloud-hosted MySQL a
 ### 🤖 **Gemini Office AI Add-in**
 An advanced agentic assistant embedded inside Office applications. Utilizes Gemini Function Calling to autonomously execute data insertion, cell formatting, and dynamic formula generation.
 
+### 💰 **Family Budget Tracking App**
+An automated, secure Android budget tracker built with Kotlin and Jetpack Compose. Features an Aggregator Engine using SMS/Notification parsing, an encrypted local Room Database (SQLCipher), and real-time Firebase cloud synchronization.
+
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
   <!-- IMPORTANT: Replace PawanAllan with your actual GitHub username below -->
-  <img src="https://github-readme-stats.vercel.app/api?username=PawanAllan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Pawan's GitHub stats" height="192"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PawanAllan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="192"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PawanAllan&theme=tokyonight" alt="Pawan's GitHub stats" height="192"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PawanAllan&theme=tokyonight" alt="Top Languages" height="192"/>
 </div>
 <br>
 <div align="center">
