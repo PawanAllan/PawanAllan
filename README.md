@@ -57,20 +57,20 @@ An advanced agentic assistant embedded inside Office applications. Utilizes Gemi
 ## 📊 GitHub Stats
 
 <div align="center">
-  <!-- IMPORTANT: Replace YOUR_GITHUB_USERNAME with your actual GitHub username below -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Pawan's GitHub stats" height="192"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="192"/>
+  <!-- IMPORTANT: Replace PawanAllan with your actual GitHub username below -->
+  <img src="https://github-readme-stats.vercel.app/api?username=PawanAllan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Pawan's GitHub stats" height="192"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PawanAllan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="192"/>
 </div>
 <br>
 <div align="center">
-  <!-- IMPORTANT: Replace YOUR_GITHUB_USERNAME with your actual GitHub username below -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <!-- IMPORTANT: Replace PawanAllan with your actual GitHub username below -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PawanAllan&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 ---
 
 <div align="center">
   <i>"Programming is the closest thing we have to a superpower."</i><br><br>
-  <!-- IMPORTANT: Replace YOUR_GITHUB_USERNAME with your actual GitHub username below -->
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <!-- IMPORTANT: Replace PawanAllan with your actual GitHub username below -->
+  <img src="https://komarev.com/ghpvc/?username=PawanAllan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
